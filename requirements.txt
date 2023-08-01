@@ -7,4 +7,3 @@ imgaug
 seaborn
 tensorflow
 keras
-cudatoolkit
