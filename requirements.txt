@@ -1,3 +1,9 @@
 numpy
 opencv-python-headless
 scikit-learn
+matplotlib
+skimage
+imgaug
+seaborn
+time
+processing
