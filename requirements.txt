@@ -5,3 +5,5 @@ matplotlib
 scikit-image
 imgaug
 seaborn
+tensorflow
+keras
