@@ -5,5 +5,3 @@ matplotlib
 scikit-image
 imgaug
 seaborn
-time
-processing
